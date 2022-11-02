@@ -1,17 +1,17 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+title:               Serena Strecker
+tagline:             'History Ph.D. student, Yale University'
+description:         'Medieval and Early Modern Europe'
 url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+baseurl:             '/'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Serena Strecker
+  url:               https://twitter.com/scstrecker
+  email:             serena.strecker@yale.edu
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme:
